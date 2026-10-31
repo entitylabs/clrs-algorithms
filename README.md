@@ -1,2 +1,2 @@
-# clrs-algorithms
+# CLRS-algorithms
 Design and Analysis of Algorithms
